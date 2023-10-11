@@ -1,0 +1,18 @@
+{
+    "name": "win/test",
+    "autoload": {
+        "psr-4": {
+            "Win\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hunny Unicorn",
+            "email": "hunnyunicorn1@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "9"
+    }
+}
